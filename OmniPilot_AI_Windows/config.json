@@ -1,0 +1,12 @@
+{
+  "ollama_url": "http://127.0.0.1:11434",
+  "planner_model": "qwen2.5:3b",
+  "vision_model": "qwen2.5vl:3b",
+  "max_steps": 20,
+  "task_timeout_seconds": 600,
+  "action_delay_seconds": 0.35,
+  "workspace": "~/OmniPilotWorkspace",
+  "language": "en",
+  "screenshot_interval_ms": 1200,
+  "remember_task_summaries": true
+}
